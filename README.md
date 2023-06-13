@@ -22,3 +22,7 @@ This `docker-compose.yml` file defines a Docker Compose setup for a web applicat
 
 This configuration assumes you have a Dockerfile and necessary files (like `log`, `letsencrypt`, `sites-enabled`, `conf-available`, and `html`) in your project directory. 
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
